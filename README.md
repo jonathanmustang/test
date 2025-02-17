@@ -1,3 +1,3 @@
 
-//comand como blogspot
-com.txt
+com.txt -> comand como blogspot
+
