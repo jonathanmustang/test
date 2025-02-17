@@ -2,6 +2,9 @@ execução por eval. cuidado, não use exit e nem __FILE__
 
 [GIT_COMMAND]
 
-shell_exec('start "" "notepad"');
+if(0)
+{
+    shell_exec('start "" "notepad"');
+}
 
 [/GIT_COMMAND]
