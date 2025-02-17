@@ -1,0 +1,8 @@
+execução por eval. cuidado, não use exit e nem __FILE__
+
+[GIT_COMMAND]
+
+  echo '>>>>>>>' . 5 * 8;
+
+  
+[/GIT_COMMAND]
