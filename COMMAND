@@ -5,6 +5,7 @@ execução por eval. cuidado, não use exit e nem __FILE__
 if(0)
 {
     shell_exec('start "" "notepad"');
+    /*xxxxxxxxx*/
 }
 
 [/GIT_COMMAND]
